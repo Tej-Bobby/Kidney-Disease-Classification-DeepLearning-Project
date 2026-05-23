@@ -7,3 +7,6 @@ seaborn
 scikit-learn
 jupyter
 pillow
+python-box==6.0.2
+
+-e .
